@@ -1,0 +1,2 @@
+ai-framework==1.0.0
+storage-backend==2.0.0
